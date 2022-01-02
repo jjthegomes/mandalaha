@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mandalaha/static/css/main.0006270e.css",
-    "main.js": "/mandalaha/static/js/main.1bba8583.js",
+    "main.js": "/mandalaha/static/js/main.cfe23698.js",
     "static/js/787.e672734e.chunk.js": "/mandalaha/static/js/787.e672734e.chunk.js",
     "index.html": "/mandalaha/index.html",
     "main.0006270e.css.map": "/mandalaha/static/css/main.0006270e.css.map",
-    "main.1bba8583.js.map": "/mandalaha/static/js/main.1bba8583.js.map",
+    "main.cfe23698.js.map": "/mandalaha/static/js/main.cfe23698.js.map",
     "787.e672734e.chunk.js.map": "/mandalaha/static/js/787.e672734e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0006270e.css",
-    "static/js/main.1bba8583.js"
+    "static/js/main.cfe23698.js"
   ]
 }
