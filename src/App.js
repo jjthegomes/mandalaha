@@ -5,7 +5,7 @@ function App() {
     <div className="bgimg w3-display-container w3-animate-opacity w3-text-white">
       <div className="opacity_blur" />
       <div className="w3-display-topleft w3-padding-large w3-xlarge">
-        Logo
+        Mandalaha
       </div>
       <div className="w3-display-middle">
         <h1 className="w3-jumbo w3-animate-top">COMING SOON</h1>
