@@ -8,12 +8,12 @@ function App() {
         Mandalaha
       </div>
       <div className="w3-display-middle">
-        <h1 className="w3-jumbo w3-animate-top">COMING SOON</h1>
-        {/* <hr className="w3-border-grey" style="margin:auto;width:40%" /> */}
+        <h1 className="w3-jumbo w3-animate-top">Em Breve</h1>
+        <hr className="w3-border-grey" style={{ margin: 'auto', width: '90%' }} />
         <p className="w3-large w3-center">35 days left</p>
       </div>
       <div className="w3-display-bottomleft w3-padding-large">
-        Powered by <a href="#">Manadalaha</a>
+        Powered by Manadalaha
       </div>
     </div>
   );
